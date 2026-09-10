@@ -36,7 +36,6 @@ The program will generate and display the fractal T-shirt design and save the ou
 
 **Student Information**
 
- Detail	        Information
 Student Name :	Muhammad Riyan Khalid
 CMS ID : 559090
 Project :	Fractal Pattern Design
