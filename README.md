@@ -1,9 +1,9 @@
 **Custom Fractal T-Shirt Design**
-Project Description
 
+**Project Description:**
 This project is a computer-generated T-shirt design based on a mathematical fractal pattern. The fractal is applied to the front of a cream-colored T-shirt to create a unique and visually attractive design.
 
-Fractal Type Implemented
+**Fractal Type Implemented**
 Mandelbrot Fractal
 The Mandelbrot set is generated using mathematical iteration and displayed as a graphical pattern.
 
